@@ -98,8 +98,8 @@ main{
 .botao{
     width: 240px;
     height: 52px;
-    border: 1px solid #f572d4dd;
-    background-color: transparent;
+    border: 1px solid #e20bacdd;
+    background-color: #dae5e6dd;
     color: #020202;
     border-radius: 4px;
     display: flex;
